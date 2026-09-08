@@ -1,5 +1,0 @@
-pandas
-sqldf
-sklearn.linear_model
-jupyter
-
